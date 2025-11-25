@@ -16,7 +16,7 @@ Inserimento di un sito tematico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Accedendo al portale e navigando sul tab **Siti Web**,
-potrai usare il pulsante **Aggiungi Sito**
+potrai usare il pulsante **Aggiungi un Sito Web**
 per procedere con l’inserimento di un sito tematico.
 
 .. figure:: /media/home-page-siti-web.png
@@ -32,6 +32,7 @@ ti mostra una form con i seguenti campi:
 -  **URL** : riporta la URL, completa del protocollo (``http://`` o ``https://``)
 -  **Tipologia** : tra le opzioni presentate, scegli la categoria che meglio
    rappresenta il tuo sito
+-  **Permessi degli utenti** : tra le opzioni presentate, scegli i permessi da attribuire ad ogni utente per il tuo sito (l'amministratore possiede automaticamente i permessi di lettura e gestione del sito)
 
 .. figure:: /media/inserimento-sito-tematico.png
    :name: inserimento-sito-tematico
