@@ -17,7 +17,7 @@ Inserimento di un sito tematico
 
 Accedendo al portale e navigando sul tab **Siti Web**,
 potrai usare il pulsante **Aggiungi un Sito Web**
-per procedere con l’inserimento di un sito tematico.
+per procedere con l’inserimento di un nuovo sito web non istituzionale (tematico).
 
 .. figure:: /media/home-page-siti-web.png
    :name: home-page-siti-web
@@ -31,8 +31,11 @@ ti mostra una form con i seguenti campi:
 -  **Nome del Sito** : inserisci un nome con cui identificare il nuovo sito
 -  **URL** : riporta la URL, completa del protocollo (``http://`` o ``https://``)
 -  **Tipologia** : tra le opzioni presentate, scegli la categoria che meglio
-   rappresenta il tuo sito
+   rappresenta il tuo sito tra **informativo**, **servizi** e **mobile**.
 -  **Permessi degli utenti** : tra le opzioni presentate, scegli i permessi da attribuire ad ogni utente per il tuo sito (l'amministratore possiede automaticamente i permessi di lettura e gestione del sito)
+
+Il **sito istituzionale** viene gestito separatamente ed è normalmente già registrato
+durante l’attivazione della Pubblica Amministrazione sul portale.
 
 .. figure:: /media/inserimento-sito-tematico.png
    :name: inserimento-sito-tematico
@@ -51,7 +54,9 @@ la :ref:`seguente schermata <conferma-inserimento-sito>`.
    Schermata conferma inserimento sito
 
 Il tab **Siti Web** ti mostra l'elenco aggiornato dei siti web,
-incluso il sito tematico appena inserito che avrà in stato ``In Attesa``
+incluso il sito web appena inserito che avrà stato ``In Attesa``
+
+Lo stato **In attesa** indica che il sito è stato registrato, ma **non è ancora attivo**
 
 L'aggiunta di un nuovo sito, comporta l'invio automatico di
 una email di notifica a tutti gli utenti registrati come amministratori

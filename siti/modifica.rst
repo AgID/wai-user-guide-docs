@@ -7,6 +7,7 @@ Modifica di un sito tematico
 
 Accedendo al portale e navigando sul tab **Siti Web**,
 ti viene presentato l'elenco dei siti della Pubblica Amministrazione.
+La modifica delle informazioni del sito non comporta un cambio di stato.
 Indipendentemente dallo stato del sito, potrai modificare
 i dati di un sito web, usando una delle seguenti modalità:
 
@@ -26,3 +27,4 @@ Effettuate le modifiche necessarie, è sufficiente cliccare il pulsante *Salva*
 per aggiornare le informazioni a sistema.
 Completato con successo il salvataggio, sarai riportato sul tab **Siti Web**
 e ti verrà visualizzata la notifica di conferma.
+
