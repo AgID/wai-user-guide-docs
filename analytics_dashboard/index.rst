@@ -32,7 +32,7 @@ nel :ref:`paragrafo successivo <riorganizzazione-widget-label>`.
 Rimozione di un widget
 ~~~~~~~~~~~~~~~~~~~~~~
 Per rimuovere un widget dalla tua dashboard,
-è sufficiente muovere il muose sulla barra
+è sufficiente muovere il mouse sulla barra
 del titolo del widget; in alto a destra
 appariranno alcune nuove icone.
 Per rimuovere un widget, clicca sul simbolo "X";

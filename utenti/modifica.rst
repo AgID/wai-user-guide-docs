@@ -33,3 +33,5 @@ come in fase di primo inserimento.
 Usa il pulsante *Salva* per completare le modifiche;
 sarai quindi direzionato sul tab **Utenti**
 e ti sarà mostrata la notifica di conferma.
+
+La modifica dei dati dell’utente non comporta un cambio di stato.

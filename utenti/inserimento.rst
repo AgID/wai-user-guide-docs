@@ -46,3 +46,11 @@ e il nuovo utente sarà contrassegnato come *Invitato*.
 Puoi rigenerare un nuovo link di invito accedendo alla pagina dei *dettagli*
 dell'utente e cliccando sul pulsante *Rispedisci Invito*
 presente nella sezione **STATO**.
+
+Per completare l’attivazione, l’utente  *invitato* deve:
+
+- verificare l’indirizzo email ricevuto;
+- accedere al portale tramite autenticazione SPID.
+
+Solo dopo il completamento di questi passaggi l’utente risulterà *Attivo*
+e potrà accedere ai servizi assegnati.

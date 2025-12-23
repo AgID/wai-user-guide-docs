@@ -21,6 +21,8 @@ L'utente sospeso potrà accedere al portale,
 ma perderà qualunque accesso ai contenuti
 della Pubblica Amministrazione.
 
+Non è possibile sospendere l’ultimo amministratore attivo della Pubblica Amministrazione.
+
 Riattivazione di un utente
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
